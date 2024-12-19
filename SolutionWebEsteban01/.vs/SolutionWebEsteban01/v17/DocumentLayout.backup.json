@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guana\\Downloads\\PROYECTO-WEB-ESTEBAN\\SolutionWebEsteban01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{711C137C-5542-4932-93F6-800FBBF70D25}|WebApplication\\WebApplication.csproj|c:\\users\\guana\\downloads\\proyecto-web-esteban\\solutionwebesteban01\\webapplication\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{711C137C-5542-4932-93F6-800FBBF70D25}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711C137C-5542-4932-93F6-800FBBF70D25}|WebApplication\\WebApplication.csproj|C:\\Users\\guana\\Downloads\\PROYECTO-WEB-ESTEBAN\\SolutionWebEsteban01\\webapplication\\marcas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{711C137C-5542-4932-93F6-800FBBF70D25}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\marcas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711C137C-5542-4932-93F6-800FBBF70D25}|WebApplication\\WebApplication.csproj|C:\\Users\\guana\\Downloads\\PROYECTO-WEB-ESTEBAN\\SolutionWebEsteban01\\webapplication\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{711C137C-5542-4932-93F6-800FBBF70D25}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711C137C-5542-4932-93F6-800FBBF70D25}|WebApplication\\WebApplication.csproj|C:\\Users\\guana\\Downloads\\PROYECTO-WEB-ESTEBAN\\SolutionWebEsteban01\\webapplication\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{711C137C-5542-4932-93F6-800FBBF70D25}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711C137C-5542-4932-93F6-800FBBF70D25}|WebApplication\\WebApplication.csproj|C:\\Users\\guana\\Downloads\\PROYECTO-WEB-ESTEBAN\\SolutionWebEsteban01\\webapplication\\tienda.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{711C137C-5542-4932-93F6-800FBBF70D25}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\tienda.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711C137C-5542-4932-93F6-800FBBF70D25}|WebApplication\\WebApplication.csproj|C:\\Users\\guana\\Downloads\\PROYECTO-WEB-ESTEBAN\\SolutionWebEsteban01\\webapplication\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{711C137C-5542-4932-93F6-800FBBF70D25}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Marcas.aspx",
+              "DocumentMoniker": "C:\\Users\\guana\\Downloads\\PROYECTO-WEB-ESTEBAN\\SolutionWebEsteban01\\WebApplication\\Marcas.aspx",
+              "RelativeDocumentMoniker": "WebApplication\\Marcas.aspx",
+              "ToolTip": "C:\\Users\\guana\\Downloads\\PROYECTO-WEB-ESTEBAN\\SolutionWebEsteban01\\WebApplication\\Marcas.aspx",
+              "RelativeToolTip": "WebApplication\\Marcas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-19T03:37:06.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\guana\\Downloads\\PROYECTO-WEB-ESTEBAN\\SolutionWebEsteban01\\WebApplication\\Default.aspx",
+              "RelativeDocumentMoniker": "WebApplication\\Default.aspx",
+              "ToolTip": "C:\\Users\\guana\\Downloads\\PROYECTO-WEB-ESTEBAN\\SolutionWebEsteban01\\WebApplication\\Default.aspx",
+              "RelativeToolTip": "WebApplication\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-19T03:13:12.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\guana\\Downloads\\PROYECTO-WEB-ESTEBAN\\SolutionWebEsteban01\\WebApplication\\Contact.aspx",
+              "RelativeDocumentMoniker": "WebApplication\\Contact.aspx",
+              "ToolTip": "C:\\Users\\guana\\Downloads\\PROYECTO-WEB-ESTEBAN\\SolutionWebEsteban01\\WebApplication\\Contact.aspx",
+              "RelativeToolTip": "WebApplication\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-19T02:49:16.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tienda.aspx",
+              "DocumentMoniker": "C:\\Users\\guana\\Downloads\\PROYECTO-WEB-ESTEBAN\\SolutionWebEsteban01\\WebApplication\\Tienda.aspx",
+              "RelativeDocumentMoniker": "WebApplication\\Tienda.aspx",
+              "ToolTip": "C:\\Users\\guana\\Downloads\\PROYECTO-WEB-ESTEBAN\\SolutionWebEsteban01\\WebApplication\\Tienda.aspx",
+              "RelativeToolTip": "WebApplication\\Tienda.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-19T02:42:10.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\guana\\Downloads\\PROYECTO-WEB-ESTEBAN\\SolutionWebEsteban01\\WebApplication\\About.aspx",
+              "RelativeDocumentMoniker": "WebApplication\\About.aspx",
+              "ToolTip": "C:\\Users\\guana\\Downloads\\PROYECTO-WEB-ESTEBAN\\SolutionWebEsteban01\\WebApplication\\About.aspx",
+              "RelativeToolTip": "WebApplication\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-19T02:31:56.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\guana\\Downloads\\PROYECTO-WEB-ESTEBAN\\SolutionWebEsteban01\\WebApplication\\Site.Master",
+              "RelativeDocumentMoniker": "WebApplication\\Site.Master",
+              "ToolTip": "C:\\Users\\guana\\Downloads\\PROYECTO-WEB-ESTEBAN\\SolutionWebEsteban01\\WebApplication\\Site.Master",
+              "RelativeToolTip": "WebApplication\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-19T02:23:13.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
